@@ -1,3 +1,3 @@
 module.exports = {
-	BookController: require('./book')
+  BookController: require('./book')
 }

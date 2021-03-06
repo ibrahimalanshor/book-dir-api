@@ -1,4 +1,4 @@
 module.exports = {
-	file: require('./file.js'),
-	validator: require('./validator.js')
+  file: require('./file.js'),
+  validator: require('./validator.js')
 }
